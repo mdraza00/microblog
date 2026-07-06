@@ -1,9 +1,9 @@
-import { Button } from "/components/ui/button"
+import { Button } from "/components/ui/button";
 
 export const Home = () => {
-    return (
-        <div>
-            <Button>Hello world</Button>
-        </div>
-    )
-}
+  return (
+    <div>
+      <Button>Hello world</Button>
+    </div>
+  );
+};
